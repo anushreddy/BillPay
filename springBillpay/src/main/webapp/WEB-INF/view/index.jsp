@@ -17,7 +17,7 @@
 
 		<h2>Welcome to Bill Pay</h2><br>
 		
-		<h3>Pay all your bills online here</h3>
+		<h3>Pay all your personal bills online here</h3>
 
 		<div id="info"></div>
 
